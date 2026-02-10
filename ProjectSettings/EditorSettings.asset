@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!159 &1
+EditorSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_ExternalVersionControlSupport: Visible Meta Files
+  m_SerializationMode: 2
+  m_LineEndingsForNewScripts: 0
+  m_CreateHardlinksForLocalPackages: 1
+  m_EosConnectEnabled: 0
+  m_EnterPlayModeOptions:
+    m_Enabled: 0
+    m_DisableDomainReload: 0
+    m_DisableSceneReload: 0
+  m_AssetPipelineMode: 1
+  m_CachingShaderPreprocessor: 0
+  m_legacyClampWorldSpaceNormals: 0
+  m_legacyAllowPreShaders: 0
+  m_GITRenameDetectionMode: 0
+  m_OverrideOpenAssetEditor: 0
+  m_OpenAssetEditor: 
+  m_PropertyProviderMode: 0
+  m_PropertyProviderPath: 
+  m_UseLegacyProfiler: 0
+  m_ShowAssetStoreConfirmations: 1
+  m_EnableShaderDiagnostics: 0
+  m_EnableShaderLogging: 0
+  m_ShaderErrorLog: 0
+  m_ShaderWarningLog: 0
+  m_ShaderIncludePathLog: 0
+  m_ShaderVariantLimit: 0
+  m_EnableShaderLocalKeywords: 1
+  m_EnableShaderGlobalKeywords: 1
+  m_EnableShaderKeywordLimit: 1
+  m_ShaderKeywordLimit: 256
+  m_EnableAsyncShaderCompilation: 1
+  m_ShaderCompilationDuringPlay: 1
+  m_ShaderCompilationLog: 0
+  m_AssetPipelineSafetyChecks: 1
+  m_AssetDatabaseFastMode: 0
+  m_AssetDatabaseDisableLocalCacheServer: 0
+  m_AssetDatabaseCacheServerEndpoint: 
+  m_AssetDatabaseCacheServerNamespace: 
+  m_AssetDatabaseEnableCacheServerCompression: 1
+  m_AssetDatabaseEnableCacheServerTls: 0
+  m_AssetDatabaseCacheServerTlsCertificate: 
+  m_AssetDatabaseCacheServerTlsCertificatePassword: 
+  m_AssetDatabaseEnableV2Mode: 1
+  m_AssetDatabaseEnableV2Downloads: 1
+  m_AssetDatabaseEnableV2Uploads: 1
+  m_AssetDatabaseV2MaxConcurrentDownloads: 64
+  m_AssetDatabaseV2MaxConcurrentUploads: 64
+  m_AssetDatabaseV2MaxConcurrentConnections: 64
+  m_AssetDatabaseV2EnableBatchDownloads: 1
+  m_AssetDatabaseV2EnableBatchUploads: 1
+  m_AssetDatabaseV2EnableCompression: 1
+  m_AssetDatabaseV2EnableTls: 0
+  m_AssetDatabaseV2TlsCertificate: 
+  m_AssetDatabaseV2TlsCertificatePassword: 
+  m_AssetDatabaseV2Endpoint: 
+  m_AssetDatabaseV2Namespace: 
+  m_AssetDatabaseV2EnableFallbackToLocal: 1
+  m_AssetDatabaseV2EnableFallbackToRemote: 1
+  m_AssetDatabaseV2EnablePrefetch: 1
+  m_AssetDatabaseV2PrefetchThreshold: 10
+  m_AssetDatabaseV2PrefetchBatchSize: 100
+  m_AssetDatabaseV2PrefetchMaxConcurrent: 64
+  m_AssetDatabaseV2EnableDebugLogging: 0
+  m_AssetDatabaseV2EnableMetrics: 0
+  m_AssetDatabaseV2EnableValidation: 0
+  m_AssetDatabaseV2ValidationThreshold: 0.1
+  m_AssetDatabaseV2ValidationMaxConcurrent: 64
+  m_AssetDatabaseV2EnableRepair: 0
+  m_AssetDatabaseV2RepairMaxConcurrent: 64
+  m_AssetDatabaseV2RepairBatchSize: 100
+  m_AssetDatabaseV2RepairEnableDelete: 1
+  m_AssetDatabaseV2RepairEnableUpload: 1
+  m_AssetDatabaseV2RepairEnableDownload: 1
+  m_AssetDatabaseV2RepairEnableCompression: 1
